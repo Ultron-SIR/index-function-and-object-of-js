@@ -40,3 +40,18 @@ console.log(aboutMe.hobbies); // Corrected to 'aboutMe.hobbies'
 console.log(aboutMe);
 delete aboutMe.hair;
 console.log(aboutMe.hair); // This will return 'undefined' since 'hair' has been deleted
+
+
+//array ofobjects
+const books = [
+    {
+        name: "github",
+        price: 2500
+    },
+    {
+        name: "it ends with us",
+        price: 20
+    },
+];
+    console.log(books[0])
+    console.log([price]);
