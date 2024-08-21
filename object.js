@@ -54,4 +54,4 @@ const books = [
     },
 ];
     console.log(books[0])
-    console.log([price]);
+    console.log([price])
